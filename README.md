@@ -1,4 +1,4 @@
-# 🦦 Hi, I'm Franchezca C. Cruz
+# 🦦 Hi, I'm Franchezca C. 
 
 ### Identity • Security • Infrastructure • Automation
 
