@@ -37,6 +37,12 @@ My current work is centered around building scalable Identity & Access Managemen
 | ⚙️ **PowerShell Automation** | Automation scripts for user administration, reporting, and operational tasks. | 🛠️ Active |
 | 🏗️ **Infrastructure Lab** | Windows Server, DNS, virtualization, and networking projects. | 🟢 Ongoing |
 
+| Project | Repository |
+|----------|------------|
+| 🧙 One Ring Identity Platform | [View Repository](https://github.com/RouterOtter/one-ring-identity-platform) |
+| 🔑 IAM Governance Framework | [View Repository](https://github.com/RouterOtter/iam-governance-framework) |
+| ⚙️ PowerShell Automation | [View Repository](https://github.com/RouterOtter/powershell-automation) |
+
 ---
 
 ## 🧙 One Ring Identity Platform
@@ -128,9 +134,7 @@ Zero Trust Architecture
 
 ## 🎯 Professional Philosophy
 
-> The right people should have the right access to the right resources at the right time, for the right reason.
-
-Identity is the foundation of modern security.
+> Even the smallest person can change the course of the future.
 
 ---
 
